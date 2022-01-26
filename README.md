@@ -1,2 +1,2 @@
-# Python_Thursday
+# Python Thursday
 Mini Projects in Python!
